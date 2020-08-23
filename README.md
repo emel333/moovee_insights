@@ -41,4 +41,4 @@ Analysis of TMDb Films to discover insights and make recommendations for origina
 I decided to gain insights on production companies first and foremost because I saw this as the position Microsoft would be taking by starting this new business segment, and ultimately, wanted to discover the companies which had picked the "winners" so to speak. To this end, I used the Budget and Revenue columns to create a new column for Gross Income. I also focused on films released in the last 36 months to account for market changes. What I found is that Walt Disney Pictures stands head and shoulders above the rest, at more than $11.5B USD.
     
 
-! [Top 20 Production Companies] (production companies top 20.png) !
+! [Top 20 Production Companies] (moovee_insights/production companies top 20.png)
