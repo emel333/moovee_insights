@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of The Movie Industry Via TMDb
+# Exploratory Data Analysis of Movies Via TMDb
 Completed by: Marvin Lee
 
 
@@ -33,7 +33,7 @@ Completed by: Marvin Lee
 
 From the beginning of 2017 to the end of 2019, Walt Disney Pictures has consistently proven to be number 1 in gross earnings, via the random selection of 1000 movie titles from TMDb's <b>Popular</b> filter (conducted 7 random selections until now). What's more, a Genre Dominance query among these films showed that Action, Adventure and Drama are consistently the top genres. I recommend using the top 20 production companies as a benchmark for movie studio film production.
 
-![alt text](https://github.com/emel333/moovee_insights/production_companies_top_20.png "Top 20 Top-Earning Production Companies")
+![alt text](https://github.com/emel333/moovee_insights/production companies top 20.png "Top 20 Top-Earning Production Companies")
 
 
 ### How seriously should popularity score be taken?
