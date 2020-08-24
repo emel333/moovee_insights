@@ -12,10 +12,10 @@ Completed by: Marvin Lee
 </ul>
 
 
-# Process & (Data Science) Tools Used
+# Process & (Data Science) Tools Used:
 
 <ul>
-    <li>Scraped data from TMDb via API, using TMDb Wrapper</li>
+    <li>Scraped data solely from TMDb via API, using TMDb Wrapper</li>
     <li>Researched the length of time it takes to go from movie announcement to release date</li>
     <li>Queried the <i>movies.Popular</i> filter to obtain 1000/3000 movie IDs that were then used to pull data from the <i>movies.Info</i>database</li>
     <li>Created dataframes specific to the questions I posed</li>
@@ -23,11 +23,12 @@ Completed by: Marvin Lee
     <li>Used <b>Budget</b> and <b>Revenue</b> to create a new column: Gross Income</li>
     <li>Created visualizations to gain insights into the data</li>
     <li><b>Focused largely on films released in the last 36 months</b></li>
+</ul>
 
 
-# Findings
+# Findings:
 
-## Which production companies have been the most successful of reason?
+## Which production companies have been the most successful of recent?
 
 ## How seriously should popularity score be taken?
 
@@ -38,7 +39,7 @@ Completed by: Marvin Lee
 
 ---
 
-# Final Recommendations + Further Research
+# Final Recommendations + Further Research:
 
 OVerall, I recommend the following:
 
